@@ -1,9 +1,9 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KE3038 microbit 基础学习套件（不含主板）
+   :caption: KE3038（KE3039）microbit 基础学习套件
 
-   README.md
+
    docs/资料下载.md
    docs/基础学习套件介绍.md
    docs/学习前的准备.md
